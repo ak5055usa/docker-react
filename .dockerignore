@@ -3,7 +3,7 @@
 .gitignore
 .dockerignore
 Dockerfile*
-docker-compose*
+docker-compose-dev.yml
 .gitlab-ci.yml
 STARTING.nd
 
