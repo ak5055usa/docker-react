@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and saved to reload. I changed !!!!
+          Edit <code>src/App.js</code> and saved to reload. I changed Amazon EBS !!!!
         </p>
         <a
           className="App-link"
